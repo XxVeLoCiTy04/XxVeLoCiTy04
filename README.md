@@ -2,7 +2,7 @@
 - 👀 I’m interested in reverse engineering 
 - 🌱 I’m currently learning JS, Delphi, C fam
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: You can't
+- 📫 How to reach me: idk honestly 
 
 <!---
 XxVeLoCiTy04/XxVeLoCiTy04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
